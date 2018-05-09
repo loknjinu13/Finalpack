@@ -34,7 +34,7 @@ I learned on the grub environment and its importance to the OS, as well as were 
 
 I also learnt how to check on my runlevel.
 
-- [Midterm](https://github.com/loknjinu13/week8) -  This was a summary of all i had learnt in this course.  
+- [Midterm](https://github.com/loknjinu13/week8) -  This was a summary of all i had learnt in this course.
 
 ### Core Application
 - [Week 9 and 10](https://github.com/loknjinu13/Chapter9-10) - This was learning on networking concepts and how to use the various commands. I learnt on the **/etc/passwd** and **/etc/shadow** files as [Jorge](https://github.com/Joval14/Week8-review/blob/master/Lab6.sh) my classmate explained their importance. 
@@ -43,7 +43,10 @@ I also learnt how to check on my runlevel.
 
 ### Team Project 
 - [Week 13](https://github.com/loknjinu13/Week13) - This was the period of preparing our deployment environment, research and more focus on team contributions for our minecraft server.
-- [Week 14](https://github.com/loknjinu13/week14) - I studied C as a compiling program. But never successfully compiled a program. I believe this will come as i read from my mates and their contributions.
+- [Week 14](https://github.com/loknjinu13/week14) - I studied C as a compiling program and compiled [mycfile.c](https://github.com/loknjinu13/week14/blob/master/mycfile.c). 
+
+I also practiced on changing my Windows Manager by using [fluxbox](https://github.com/loknjinu13/week14/blob/master/fluxbox.md). 
+
 - [Week 15](https://github.com/loknjinu13/week15) - This week was focused on reviewing our course project and practicing on using C and Python in compilation. Our team successfully deployed our minecraft server and documented. We also edited our codeBlockers.html credit to team [N-Artica](https://sootsplash.csci2461.com/nartica.html).
 
 ### "Code-Blockers"
